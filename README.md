@@ -24,7 +24,7 @@ Welcome to Kai, a sophisticated, human-like conversational AI designed to be an 
 | **Frontend** | **React**, **Tailwind CSS** |
 | **AI Model** | **Google Gemini API** (`gemini-1.5-flash`) for chat, context filtering, and emotion detection.         |
 | **Database** | **ChromaDB** (Persistent Vector Store), **JSON** (for User Emotion Profiles)                             |
-| **Hosting** | **Render** (Backend API & Persistent Disk), **Vercel / Netlify / Render** (Frontend)                     |
+| **Hosting** | **Render** (Backend API & Persistent Disk), **Vercel** (Frontend)                     |
 
 ---
 
