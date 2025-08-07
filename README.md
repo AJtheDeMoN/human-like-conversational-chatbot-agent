@@ -4,7 +4,7 @@
 
 Welcome to Kai, a sophisticated, human-like conversational AI designed to be an empathetic and context-aware companion. This project goes beyond a simple Q&A bot, implementing a multi-layered memory system, emotional tone adaptation, and a scalable, modular architecture ready for real-world integration.
 
-**[Live Demo Link](https://[your-render-frontend-url].onrender.com)** 👈
+**[Live Demo Link](https://human-like-conversational-chatbot-a.vercel.app/)** 👈
 
 ---
 
