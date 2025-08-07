@@ -1,7 +1,5 @@
 # Kai - A Human-Like Conversational AI
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 Welcome to Kai, a sophisticated, human-like conversational AI designed to be an empathetic and context-aware companion. This project goes beyond a simple Q&A bot, implementing a multi-layered memory system, emotional tone adaptation, and a scalable, modular architecture ready for real-world integration.
 
 **[Live Demo Link](https://human-like-conversational-chatbot-a.vercel.app/)** 👈
